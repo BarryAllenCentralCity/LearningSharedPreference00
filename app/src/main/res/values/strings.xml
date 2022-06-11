@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Learning Shared Preference</string>
+    <string name="note">Your Note will Appear here</string>
+    <string name="Values">Enter Values Here</string>
+    <string name="save_text">Save Text!</string>
+</resources>
